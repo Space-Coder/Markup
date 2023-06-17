@@ -4,4 +4,6 @@
     <string name="me">Жегздрин Алексей Андреевич</string>
     <string name="spec">Математическое и программное обеспечение мобильных устройств</string>
     <string name="group_number">Группа #05</string>
+    <string name="landscape_vertical">Вертикальное представление</string>
+    <string name="landscape_horizontal">Горизонтальное представление</string>
 </resources>

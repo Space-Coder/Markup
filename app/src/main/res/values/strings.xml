@@ -3,4 +3,6 @@
     <string name="me">Zhegzdryn Alexey Andreevich</string>
     <string name="spec">Mathematical and software for mobile devices</string>
     <string name="group_number">Group #05</string>
+    <string name="landscape_vertical">Portrait view</string>
+    <string name="landscape_horizontal">Landscape view</string>
 </resources>
